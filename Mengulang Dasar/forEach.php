@@ -12,3 +12,5 @@ foreach ($listNama as $key => $value) { // foreach digunakan untuk mengiterasi a
     echo "$key : $value" . PHP_EOL;
 }
 
+
+
